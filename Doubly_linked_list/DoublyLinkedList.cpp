@@ -1,7 +1,7 @@
 // IndexNum:
 // Name: 
 
-#include "DoublyLinkedList.h"
+#include "DoubleLinkedList.h"
 
 void DoublyLinkedList::insertBeg(int x)
 {
