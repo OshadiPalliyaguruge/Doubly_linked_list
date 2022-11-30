@@ -3,7 +3,7 @@
 
 #include <iostream>
 //#include <queue>
-#include "DoublyLinkedList.h"
+#include "DoubleLinkedList.h"
 
 using namespace std;
 
@@ -16,7 +16,7 @@ int main()
 	cout << "Enter the elements  : \n";
 	for (int i = 0; i < nodes; i++)
 	{
-		cin >> elements;
+		cin >> elements; 
 		obj1.insertEnd(elements);
 	}
 	
